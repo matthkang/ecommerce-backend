@@ -39,7 +39,7 @@ Example of GET request for retrieving all categories in MySQL database:
 
 ![All Categories](images/get-categories.png)
 
-Video demonstrating application: [Employee Tracker Demo](https://drive.google.com/file/d/1qmagufIJbqilTrqF9cmspx_ASAhua3DU/view?usp=sharing)
+Video demonstrating application: [E-Commerce Backend Demo](https://drive.google.com/file/d/1WstKhtFUuzMhM_oSACo5ACU1Z7Lq4z4j/view?usp=sharing)
 
 ---
 
